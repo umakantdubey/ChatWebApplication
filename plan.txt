@@ -1,0 +1,6 @@
+1- create an express server
+2- setup basic skelton 
+3- setup mongo
+4-create admin api
+5-setup jwt 
+6-setup socket and enable messages
