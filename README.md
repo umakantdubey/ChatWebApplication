@@ -2,8 +2,7 @@
 
 
 
-**install all modules-
-**
+# install all modules-
 
 
 npm install
@@ -11,8 +10,8 @@ npm install
 
 
 
-**run server on port 8080 
-**
+# run server on port 8080 
+
 
 
 node server.js
@@ -20,8 +19,8 @@ node server.js
 
 
 
-**API to manage users data 
-**
+# API to manage users data 
+
 POST /api/auth/signup
 POST /api/auth/signin
 
